@@ -42,5 +42,10 @@ Etape 4 : Déterminer les contraintes avec les réponses et les limites
 	A le volume maximum transportable avec un plafond de 370.000m3
 	B le montant de l'investissement 
 	C le nombre d'items différents maximum avec un plafond de 50 
+Etape 5 : appliquer la résolution
+Etape 6 : produire un tableau avec les résultats injectables directement dans le multi-buy
+et un tableau sauvegardable csv pour archiver les prix achat et de revente estimés
 
 
+Une marge < MargePctMin ou marge < MargeMin recalera un item de la liste
+Sont éliminés d'office certaines catégorie de marchandises 
