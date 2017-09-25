@@ -33,4 +33,14 @@ Maximiser ou minimiser Z = C1·X1 + C2·X2 + ... + Cn·Xn
 autre source https://hubpages.com/technology/Simplex-Algorithm-in-Python
 
 
+Etape 1 : sur le marché A 
+relever les prix de chaque produit dont il s'est vendu pour plus que MontantMini en 1 semaine 
+Etape 2 : sur le marché B
+relever les prix de ces même produits
+Etape 3 : Calculer la marge entre les deux marchés pour chaque item, la ramener a la marge/m3
+Etape 4 : Déterminer les contraintes avec les réponses et les limites
+	A le volume maximum transportable avec un plafond de 370.000m3
+	B le montant de l'investissement 
+	C le nombre d'items différents maximum avec un plafond de 50 
+
 
